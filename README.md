@@ -60,8 +60,6 @@ This project provides a robust, data-driven tool for **government agencies, safe
 ## 📁 File Structure
 
 - `UK_Road_Accident_Analysis.pbix` – Main Power BI file  
-- `SQL_Scripts/` – SQL queries for data extraction and preprocessing  
-- `README.md` – Project documentation  
-- `Screenshots/` – Dashboard preview images (if available)
+- `README.md` – Project documentation
 
 
