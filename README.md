@@ -2,7 +2,7 @@
 
 📊 Project Overview
 
-This project presents an in-depth analysis of UK road accident data using **Power BI**, with the goal of identifying key trends, patterns, and insights to support **data-driven road safety improvements**. The dataset, sourced from the UK Department for Transport and hosted in a **PostgreSQL** database, includes detailed records of accidents, vehicle involvement, casualties, and environmental conditions.
+This project presents an in-depth analysis of UK road accident data using **Power BI**, with the goal of identifying key trends, patterns, and insights to support **data-driven road safety improvements**. The dataset, sourced from **PostgreSQL** database, includes detailed records of accidents, vehicle involvement, casualties, and environmental conditions.
 
 ---
 
@@ -42,18 +42,8 @@ This project presents an in-depth analysis of UK road accident data using **Powe
 ---
 
 🧩 Challenges & Solutions
-
-- **Mapping Regions Without Region Fields**:  
-  Used latitude and longitude to derive approximate UK regions using custom logic.
-
 - **Large Dataset Performance**:  
   Optimized data model and applied efficient DAX measures to ensure responsive dashboard performance.
-
----
-
-📈 Impact
-
-This project provides a robust, data-driven tool for **government agencies, safety analysts, and transportation authorities** to identify critical accident hotspots and prioritize preventive actions. It emphasizes the power of visual analytics in public safety and transportation planning.
 
 ---
 
