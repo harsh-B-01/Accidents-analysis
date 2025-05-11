@@ -41,7 +41,7 @@ This project presents an in-depth analysis of UK road accident data using **Powe
 
 ---
 
-## 🧩 Challenges & Solutions
+🧩 Challenges & Solutions
 
 - **Mapping Regions Without Region Fields**:  
   Used latitude and longitude to derive approximate UK regions using custom logic.
@@ -51,13 +51,13 @@ This project presents an in-depth analysis of UK road accident data using **Powe
 
 ---
 
-## 📈 Impact
+📈 Impact
 
 This project provides a robust, data-driven tool for **government agencies, safety analysts, and transportation authorities** to identify critical accident hotspots and prioritize preventive actions. It emphasizes the power of visual analytics in public safety and transportation planning.
 
 ---
 
-## 📁 File Structure
+📁 File Structure
 
 - `UK_Road_Accident_Analysis.pbix` – Main Power BI file  
 - `README.md` – Project documentation
